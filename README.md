@@ -17,3 +17,8 @@ I am a CSE student learning cybersecurity and practicing hands-on labs.
 - Build cybersecurity skills
 - Create projects
 - Prepare for internships
+## TryHackMe Progress
+
+### Completed Rooms
+1. Defensive Security Intro
+2. Offensive Security Intro
